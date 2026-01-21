@@ -21,7 +21,7 @@ Role: Android Mobile Developer, Architect, and AI pod Architect
 - 👥 **Leadership**: Led teams of 4-8 developers (Android & iOS)
 - 🚀 **Performance**: Specialized in app optimization (rendering, CPU, battery, networking)
 - 🤖 **AI Integration**: Implementing AI-powered development workflows with custom prompts
-- 📚 **Mentoring**: Active mentor on ADPList with X sessions completed
+- 📚 **Mentoring**: Active mentor on ADPList with 50 sessions completed
 
 ## 📈 Recent Focus:
 - Implementing AI code agents (KILO, Claude Code) on large-scale React Native projects
@@ -58,9 +58,5 @@ Role: Android Mobile Developer, Architect, and AI pod Architect
 [![Credly](https://img.shields.io/badge/View_All_Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=101010)](https://www.credly.com/users/andres.serrano)
 [![Google Cloud Skills](https://img.shields.io/badge/Google_Cloud_Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)](https://www.cloudskillsboost.google/public_profiles/410136e5-9774-4d84-9ac1-5b3c9b0c9f70)
 
-## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andresserranodev&show_icons=true&theme=radical)
-
-<img src="https://komarev.com/ghpvc/?username=andresserranodev&label=Profile%20views&color=0e75b6&style=flat" alt="andresserranodev"/> 
 
 
