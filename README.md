@@ -3,7 +3,7 @@
 I'm passionate about continuous learning and unlearning to improve, fix, and create all kinds of things.
 I have been a mobile application developer since 2013. I have worked in Java and Kotlin on native Android apps (I'm a fan of Kotlin). 
 
-I have followed Scrum, EX, kanban,  and good development practices such as SOLID, Clean Code, and Clean Architecture C.I and C.D.
+I have followed Scrum, XP, kanban,  and good development practices such as SOLID, Clean Code, and Clean Architecture C.I and C.D.
 
 I love mentoring people, photography 📷 , motorcycles 🏍️ and running 🏃‍♂️
 
@@ -14,7 +14,9 @@ I love mentoring people, photography 📷 , motorcycles 🏍️ and running 🏃
 🔭  I’m currently working at:
 
 Globant
-Role: Android Mobile Developer, Architect
+Role: Android Mobile Developer, Architect, and AI pod Architect
+
+
  
 ## Skills:
 ![Android](https://img.shields.io/badge/Android-3DDC83?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
